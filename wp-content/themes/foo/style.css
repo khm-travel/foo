@@ -5,3 +5,7 @@
  * Author:          Julian Canepa
  * Requires PHP:    8.3
  */
+
+ .wp-element-button, .wp-block-button__link {
+    background-color: hotpink !important;
+ }
